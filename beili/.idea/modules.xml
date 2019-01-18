@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beili.iml" filepath="$PROJECT_DIR$/beili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beili-commons/beili-commons.iml" filepath="$PROJECT_DIR$/beili-commons/beili-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beili-dependencies/beili-dependencies.iml" filepath="$PROJECT_DIR$/beili-dependencies/beili-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beili-domain/beili-domain.iml" filepath="$PROJECT_DIR$/beili-domain/beili-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beili-web-admin/beili-web-admin.iml" filepath="$PROJECT_DIR$/beili-web-admin/beili-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beili-web-api/beili-web-api.iml" filepath="$PROJECT_DIR$/beili-web-api/beili-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beili-web-ui/beili-web-ui.iml" filepath="$PROJECT_DIR$/beili-web-ui/beili-web-ui.iml" />
+    </modules>
+  </component>
+</project>

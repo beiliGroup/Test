@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="beili-web-api:war">
+    <output-path>$PROJECT_DIR$/beili-web-api/target</output-path>
+    <root id="archive" name="beili-web-api-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="beili-web-api:war exploded" />
+    </root>
+  </artifact>
+</component>
